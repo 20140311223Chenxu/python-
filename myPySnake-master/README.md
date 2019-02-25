@@ -8,6 +8,8 @@ python game.py 运行程序
 * wasd或者方向键进行移动。
 * f可在全屏和窗口模式之间进行切换。
 * ESC退出游戏
-***运行效果如下***
+
 <br>
-![1111](https://raw.githubusercontent.com/20140311223Chenxu/python-/master/myPySnake-master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.jpg)
+
+**运行效果如下**
+![aaaaaa](https://raw.githubusercontent.com/20140311223Chenxu/python-/master/myPySnake-master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.jpg)
